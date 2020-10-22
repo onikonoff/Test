@@ -7,6 +7,8 @@ def name():
  
 name()
 
+n = 56
+
 
 
 

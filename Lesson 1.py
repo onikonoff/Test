@@ -7,6 +7,10 @@ def name():
  
 name()
 
+n = 56
+
+m = 543
+
 
 
 
